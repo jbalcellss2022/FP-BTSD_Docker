@@ -50,15 +50,6 @@ Clone the repository to a local folder and run the command:
     <div class="inline-block" style="display: inline-block; width: 30%">
         <img src="images/docker1.jpg">
     </div>
-    <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker2.jpg">
-    </div>
-    <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker3.jpg">
-    </div>
-    <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker4.jpg">
-    </div>
 </div>
 
 
