@@ -32,7 +32,8 @@ The objective of this project is to provide the development team with the local 
 ## Requirements
 <div id="requirements"></div>
 
-A local copy of the Docker Desktop product for Windows PCs is required and can be downloaded from the following link: https://www.docker.com
+A local copy of the Docker Desktop product for Windows PCs is required and can be downloaded from the following link: 
+[Docker website](https://www.docker.com)
 
 <!-- INSTALLATION -->
 ## Installation
