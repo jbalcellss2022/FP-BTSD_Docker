@@ -46,6 +46,22 @@ Clone the repository to a local folder and run the command:
         docker compose up -d
 ```
 
+<div id="block" align="center">
+    <div class="inline-block" style="display: inline-block; width: 30%">
+        <img src="images/docker1.jpg">
+    </div>
+    <div class="inline-block" style="display: inline-block; width: 30%">
+        <img src="images/docker2.jpg">
+    </div>
+    <div class="inline-block" style="display: inline-block; width: 30%">
+        <img src="images/docker3.jpg">
+    </div>
+    <div class="inline-block" style="display: inline-block; width: 30%">
+        <img src="images/docker4.jpg">
+    </div>
+</div>
+
+
 <!-- INSTRUCTIONS -->
 ## Instructions
 <div id="instructions"></div>
@@ -60,14 +76,13 @@ Use the following commands to start, stop or list all available deployeded conta
 
 <div id="block" align="center">
     <div class="inline-block" style="display: inline-block; width: 30%">
-        <img src="images/docker1.jpg">
-    </div>
-    <div class="inline-block" style="display: inline-block; width: 30%">
         <img src="images/docker2.jpg">
     </div>
+    <br>
     <div class="inline-block" style="display: inline-block; width: 30%">
         <img src="images/docker3.jpg">
     </div>
+    <br>
     <div class="inline-block" style="display: inline-block; width: 30%">
         <img src="images/docker4.jpg">
     </div>
