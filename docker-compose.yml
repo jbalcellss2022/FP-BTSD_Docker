@@ -2,11 +2,11 @@ version: '3.8'
 services:
   mssql:
     build:
-      context: mssql/
+      context: mssql-server/
       args:
         MSSQL_VERSION: ${MSSQL_VERSION}
-    hostname: mssql
-    container_name: mssql
+    hostname: mssqlserver
+    container_name: mssqlserver
     restart: always
     ports:
       - 1433:1433
@@ -24,6 +24,5 @@ services:
 networks:
  mssql-network:
     driver: bridge
-
 volumes:
   mssql:
