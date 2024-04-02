@@ -51,8 +51,8 @@ Clone the repository to a local folder and run the command:
 Use the following commands to start, stop or list all available deployeded containers:
 
 ```def
-        docker ps -a								# Get a list of all available containers
-        docker start [container_namer_or_ID]		# Start a container
+        docker ps -a						# Get a list of all available containers
+        docker start [container_namer_or_ID]			# Start a container
         docker stop [container_namer_or_ID]			# Stops a container
 ```
 
@@ -78,4 +78,4 @@ Use the following commands to start, stop or list all available deployeded conta
 
 Additional information on MS SQL Server configuration can be found at the following link:
 
-*[Configure SQL Server on Linux](https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environment-variables)
+[Configure SQL Server on Linux](https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-configure-environment-variables)
