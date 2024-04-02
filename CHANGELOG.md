@@ -7,7 +7,7 @@ Improvements are made to the Docker deployment codes and to the instructions, re
 
 ## v1.0.0
 
-Initial Comit, all source files are moved to the code control environment.
+Initial commit, all source files are moved to the code control environment.
 
 
 
