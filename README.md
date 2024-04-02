@@ -51,9 +51,9 @@ Clone the repository to a local folder and run the command:
 Use the following commands to start, stop or list all available deployeded containers:
 
 ```def
-        docker ps -a						# Get a list of all available containers
-        docker start [container_namer_or_ID]			# Start a container
-        docker stop [container_namer_or_ID]			# Stops a container
+        docker ps -a					# Get a list of all available containers
+        docker start [container_namer_or_ID]		# Start a container
+        docker stop [container_namer_or_ID]		# Stops a container
 ```
 
 <div id="block" align="center">
